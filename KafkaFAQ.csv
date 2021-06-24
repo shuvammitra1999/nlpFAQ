@@ -1,0 +1,12 @@
+FAQ Questions,FAQ Answers
+"How to identify if a cluster is unhealthy, what are the first steps or metrics we should look for?","1"
+"What happens to the quotas when there is a broker failure?","2"
+"Document the process to open firewall from cloud to on-prem or vice versa","3"
+"How to add wildcard access to a specific topic in a cluster?","4"
+"How is this billed?","5"
+"Can I change the retention of my pipeline?","6"
+"Why is creating a pipeline with topic Affinity taking so long?","7"
+"Can I scale up my pipeline?","8"
+"Can I delete a single topic on a cluster?","9"
+"What is the difference between a pipeline, a topic, a broker, a partition, and a cluster?","10"
+"Does your service support multiple topics on a single kafka cluster?","11"
